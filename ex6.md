@@ -1,0 +1,1 @@
+Leia jest cocker spanielem angielskim.
