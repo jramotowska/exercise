@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-This documentation decribes how to use the Pavel automatic toothbrush.
-=======
-This documentation decribes how to use the Karel robotic toothbrush.
->>>>>>> 40933ad0f10a679871ffed5689cabf1aa0326a0f
+
+This documentation decribes how to use the Karel automated robotic toothbrush.
 
 Note that tis toothbrush is totally safe to use for children, adults, pets, wildlife and even trees.
